@@ -1,6 +1,5 @@
 import os
 
-
 def read_all_lines(input_folder):
     """Read all lines from all files in the input folder."""
     lines = []
